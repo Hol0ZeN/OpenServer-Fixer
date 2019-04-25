@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28822.285
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenServer-Fixer", "OpenServer-Fixer\OpenServer-Fixer.csproj", "{ED97B6B8-E1BC-4EC3-BEAB-DFBF705A6342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED97B6B8-E1BC-4EC3-BEAB-DFBF705A6342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED97B6B8-E1BC-4EC3-BEAB-DFBF705A6342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED97B6B8-E1BC-4EC3-BEAB-DFBF705A6342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED97B6B8-E1BC-4EC3-BEAB-DFBF705A6342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27905AF9-06D5-441B-B203-41D7C5FFD7F0}
+	EndGlobalSection
+EndGlobal
