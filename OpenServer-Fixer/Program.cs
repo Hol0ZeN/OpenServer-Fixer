@@ -30,8 +30,7 @@ namespace OpenServer_Fixer
 
         private static void Watcher_Changed(object sender, FileSystemEventArgs e)
         {
-            string text = File.ReadAllText(e.FullPath);
-            File.WriteAllText(e.FullPath, text, new ASCIIEncoding());
+            File.WriteAllText(e.FullPath, File.ReadAllText(e.FullPath), new ASCIIEncoding());
         }
     }
 }
